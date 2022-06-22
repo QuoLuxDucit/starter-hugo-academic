@@ -5,7 +5,7 @@ headless: true
 weight: 130
 title: Contact me
 subtitle: null
-active: true
+active: false
 content:
   form:
     provider: netlify
