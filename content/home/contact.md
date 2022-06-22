@@ -3,7 +3,7 @@ widget: contact
 widget_id: Contact me
 headless: true
 weight: 130
-title: Contact
+title: Contact me
 subtitle: null
 active: true
 content:
