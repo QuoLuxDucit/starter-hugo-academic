@@ -2,12 +2,12 @@ baseurl: https://QuoLuxDucit.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Yuval Kay
+title: Kay
 
 languages:
     en:
         languageName: English
-        title: Yuval Kay
+        title: Kay
         weight: 1
 
 
