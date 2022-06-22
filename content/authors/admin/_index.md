@@ -33,6 +33,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm an undergraduate student intrested in differential geometry, mathematical analysis, the nuclear and particle model and general relativity. I'm currently a second year studying at UCL. 
+I'm an undergraduate student interested in differential geometry, mathematical analysis, the nuclear and particle model and general relativity. I'm currently a second year studying at UCL. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
