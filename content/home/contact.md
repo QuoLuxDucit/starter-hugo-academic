@@ -5,7 +5,7 @@ headless: true
 weight: 130
 title: Contact me
 subtitle: null
-active: false
+active: true
 content:
   form:
     provider: netlify
@@ -43,4 +43,3 @@ content:
 design:
   columns: "2"
 ---
-Hallo my name is
