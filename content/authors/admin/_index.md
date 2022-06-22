@@ -6,7 +6,8 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Differential Geometry
   - Mathematical Analysis
-  - Shell
+  - Nuclear Shell Model
+  - General Relativity
 social:
   - icon: envelope
     icon_pack: fas
