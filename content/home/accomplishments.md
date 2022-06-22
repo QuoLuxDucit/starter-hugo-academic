@@ -27,10 +27,10 @@ item:
     organization_url: https://www.datacamp.com
     title: Object-Oriented Programming in R
     url: ""
-widget_id: Accomplish
+widget_id: Accomplishments
 headless: true
 weight: 50
-title: Accomplish
+title: Accomplishments
 subtitle: null
 design:
   columns: "2"
