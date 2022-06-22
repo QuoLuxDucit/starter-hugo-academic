@@ -1,11 +1,5 @@
 # Font style metadata
-name = "Minimal"
+name = "Yanone_Kaffeesatz"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
-
-# Font families
-heading_font = "Montserrat"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+google_fonts = "family=Yanone+Kaffeesatz:wght@200"
