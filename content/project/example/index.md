@@ -4,7 +4,7 @@ url_pdf: ""
 date: 2022-06-23T09:24:49.832Z
 summary: An example of using the in-built project page.
 url_video: ""
-title: Example Project
+title: Example Project 1
 featured: true
 tags:
   - Computational Physics
