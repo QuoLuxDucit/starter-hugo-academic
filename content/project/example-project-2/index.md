@@ -9,8 +9,8 @@ authors:
   - Yuval Kay
 tags:
   - Mathematics
-categories:
-  - Mathematics
+  - Physics
+categories: []
 image:
   filename: featured.png
   focal_point: Smart
