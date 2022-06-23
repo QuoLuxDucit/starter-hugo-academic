@@ -1,13 +1,13 @@
 ---
 slides: example
 url_pdf: ""
-date: 2016-04-27T00:00:00.000Z
+date: 2022-06-23T08:56:40.585Z
 summary: An example of using the in-built project page.
 url_video: ""
 title: Example Project
 featured: true
 tags:
-  - Computing
+  - Computational Physics
   - Mathematics
 external_link: ""
 url_slides: ""
@@ -19,6 +19,7 @@ links:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  preview_only: true
 url_code: ""
 ---
 
