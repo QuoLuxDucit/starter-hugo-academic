@@ -5,7 +5,7 @@ headless: true
 weight: 65
 title: Projects
 subtitle: This is an example of a subtitle.
-active: false
+active: true
 content:
   page_type: project
   filter_default: 0
