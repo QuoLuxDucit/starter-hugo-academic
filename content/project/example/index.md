@@ -15,7 +15,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
