@@ -28,6 +28,4 @@ design:
   columns: "1"
   view: 3
   flip_alt_rows: false
-  background:
-    text_color_light: true
 ---
