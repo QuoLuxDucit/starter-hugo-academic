@@ -1,5 +1,5 @@
 ---
-widget: Compact
+widget: portfolio
 widget_id: Projects
 headless: true
 weight: 65
@@ -21,7 +21,7 @@ content:
     - name: Other
       tag: Demo
 design:
-  columns: "1"
+  columns: "2"
   view: 3
   flip_alt_rows: false
 ---
