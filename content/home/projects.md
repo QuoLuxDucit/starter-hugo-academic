@@ -4,7 +4,7 @@ widget_id: Projects
 headless: true
 weight: 65
 title: Projects
-subtitle: Hallo my name is vica i like you
+subtitle: This is an example of a subtitle.
 active: true
 content:
   page_type: project
