@@ -7,6 +7,8 @@ draft: true
 featured: false
 authors:
   - Yuval Kay
+tags:
+  - Mathematics
 categories:
   - Mathematics
 image:
