@@ -1,9 +1,11 @@
 # Font style metadata
-name = "Nunito"
+name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=Nunito"
+google_fonts = "family=Nunito&family=Gotu"
 
 # Font families
-heading_font = "Nunito"
+heading_font = "Gotu"
 body_font = "Nunito"
+nav_font = "Nunito"
+mono_font = "Nunito"
