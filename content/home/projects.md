@@ -1,5 +1,5 @@
 ---
-widget: Compact
+widget: "pages "
 widget_id: Projects
 headless: true
 weight: 65
