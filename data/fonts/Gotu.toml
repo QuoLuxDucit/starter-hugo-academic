@@ -7,5 +7,3 @@ google_fonts = "family=Gotu"
 # Font families
 heading_font = "Gotu"
 body_font = "Gotu"
-nav_font = "Gotu"
-mono_font = "Gotu"
