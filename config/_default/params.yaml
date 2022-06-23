@@ -44,11 +44,6 @@ header:
 footer:
   copyright:
     notice: '© 2022 Yuval Kay'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
 
 # Localization
 
