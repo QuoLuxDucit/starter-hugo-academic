@@ -22,6 +22,6 @@ content:
       tag: Demo
 design:
   columns: "2"
-  view: 3
+  view: compact
   flip_alt_rows: false
 ---
