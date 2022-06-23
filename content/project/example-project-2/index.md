@@ -13,7 +13,7 @@ tags:
 external_link: ""
 links:
   - url: https://www.youtube.com/watch?v=CARXrn2BzTc
-    icon: YouTube
+    icon: youtube
     name: Watch for more
     icon_pack: fab
   - url: https://arxiv.org
