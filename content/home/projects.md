@@ -4,11 +4,11 @@ widget_id: Projects
 headless: true
 weight: 65
 title: Projects
-subtitle: These are my notes on topics and ideas I find interesting. Every blog
-  post contains a pdf file that delivers a more in-depth explanation of the
-  matter. If you found any mistakes or would like to recommend some extra
-  materials to add/suggest some topics to research, feel free to reach out to me
-  by using the contact form below.
+subtitle: These are my notes on topics I find interesting. Every blog post
+  contains additional files or supplementary materials that deliver a more
+  in-depth explanation of the matter. If you found any mistakes or would like to
+  recommend some extra content to add/suggest topics to research, feel free to
+  reach out to me by using the contact form below.
 active: true
 content:
   page_type: project
