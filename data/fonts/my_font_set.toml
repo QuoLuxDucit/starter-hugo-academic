@@ -7,13 +7,3 @@ google_fonts = "family=Gotu"
 # Font families
 heading_font = "Gotu"
 body_font = "Gotu"
-
-# Font style metadata
-name = "Nunito"
-
-# Optional Google font URL
-google_fonts = "family=Nunito"
-
-# Font families
-heading_font = "Nunito"
-body_font = "Nunito"
