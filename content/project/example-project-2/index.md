@@ -20,7 +20,7 @@ links:
   - url: https://arxiv.org
     name: arXiv
 image:
-  filename: null
+  filename: screen-shot-2022-06-23-at-3.11.03-pm.png
   focal_point: center
   preview_only: false
   caption: mjgfkhfkhgfkj
