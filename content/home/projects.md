@@ -30,6 +30,4 @@ design:
   flip_alt_rows: false
   background:
     text_color_light: false
-    gradient_end: "#000000"
-    gradient_start: "#000000"
 ---
