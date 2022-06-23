@@ -28,4 +28,8 @@ design:
   columns: "1"
   view: 3
   flip_alt_rows: false
+  background:
+    text_color_light: true
+    gradient_end: "#000000"
+    gradient_start: "#281ad2"
 ---
