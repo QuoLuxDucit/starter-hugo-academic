@@ -1,19 +1,27 @@
 ---
+# An instance of the Contact widget.
 widget: contact
-widget_id: Contact me
+
+# This file represents a page section.
 headless: true
+
+# Order that this section appears on the page.
 weight: 130
-title: Contact me
-subtitle: null
-active: true
+
+title: Contact
+subtitle:
+
 content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+
+  # Email form provider
   form:
     provider: netlify
     formspree:
-      ? id
-    netlify:
+      id: 
+    netlify: zcahyka@ucl.ac.uk
       captcha: true
-  autolink: true
 design:
-  columns: "2"
+  columns: '2'
 ---
