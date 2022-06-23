@@ -33,7 +33,16 @@ education:
 email: ""
 superuser: true
 highlight_name: true
+
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 ---
+
 I'm an undergraduate student interested in computational physics, mathematical analysis and its implementation in modern physics theories, general relativity and particle physics. I'm currently in my second year studying at UCL. 
 
 
