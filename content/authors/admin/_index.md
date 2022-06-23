@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -34,6 +34,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm an undergraduate student interested in differential geometry, mathematical analysis, the nuclear and particle model and general relativity. I'm currently in my second year studying at UCL.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm an undergraduate student interested in mathematical analysis and its applications to physics, computational physics and more. I'm currently in my second year studying at UCL. My complete resumé can be found {{< staticref "uploads/demo_resume.pdf" "newtab" >}} here {{< /staticref >}}.
