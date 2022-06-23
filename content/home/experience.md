@@ -27,7 +27,7 @@ experience:
 widget_id: Experience
 headless: true
 weight: 40
-title: Experience
+title: Upcoming projects
 subtitle: null
 design:
   columns: "2"
