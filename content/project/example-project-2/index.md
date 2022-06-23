@@ -1,10 +1,10 @@
 ---
 title: Example Project 2
 subtitle: radsatsfgsfdggsaasgdgsd
-date: 2022-06-23T13:38:18.943Z
+date: 2022-06-23T13:49:03.360Z
 summary: agagsdafdgagfagsfafdgafgsfadgadfg
-draft: true
-featured: false
+draft: false
+featured: true
 authors:
   - Yuval Kay
 tags:
