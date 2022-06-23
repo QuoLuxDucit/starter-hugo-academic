@@ -19,8 +19,7 @@ links:
     icon_pack: fab
   - url: https://arxiv.org
     name: arXiv
-image:
-  {{< gallery album="divgradandcurltensors.png" >}} 
+image: 
   focal_point: center
   preview_only: false
   caption: mjgfkhfkhgfkj
