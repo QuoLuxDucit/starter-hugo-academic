@@ -29,5 +29,5 @@ design:
   view: 3
   flip_alt_rows: false
   background:
-    text_color_light: false
+    text_color_light: true
 ---
