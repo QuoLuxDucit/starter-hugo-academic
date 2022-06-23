@@ -1,5 +1,5 @@
 ---
-widget: Card
+widget: featured
 widget_id: Projects
 headless: true
 weight: 65
