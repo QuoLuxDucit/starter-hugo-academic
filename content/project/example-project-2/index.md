@@ -20,7 +20,7 @@ links:
   - url: https://arxiv.org
     name: arXiv
 image:
-  url_code: ""
+  {{< gallery album="divgradandcurltensors.png" >}} 
   focal_point: center
   preview_only: false
   caption: mjgfkhfkhgfkj
