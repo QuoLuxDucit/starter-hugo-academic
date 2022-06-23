@@ -1,5 +1,5 @@
 ---
-widget: "pages "
+widget: pages
 widget_id: Projects
 headless: true
 weight: 65
@@ -7,7 +7,7 @@ title: Projects
 subtitle: This is not an example of a subtitle.
 active: true
 content:
-  page_type: project
+  page_type: compact
   filter_default: 0
   filter_button:
     - name: All
