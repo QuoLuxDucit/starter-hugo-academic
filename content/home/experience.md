@@ -26,7 +26,7 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
 widget_id: upcomingpojects
 headless: true
-weight: 40
+weight: 70
 title: Upcoming projects
 subtitle: null
 design:
