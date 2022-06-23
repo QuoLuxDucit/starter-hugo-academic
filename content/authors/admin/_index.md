@@ -34,4 +34,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm an undergraduate student interested in mathematical analysis and its applications to physics, computational physics and more. I'm currently in my second year studying at UCL. My complete resumé can be found {{< staticref "uploads/demo_resume.pdf" "newtab" >}} here {{< /staticref >}}.
+I'm an undergraduate student interested in computational physics, mathematical analysis and its implementation in modern physics theories, general relativity and particle physics. I'm currently in my second year studying at UCL. My complete resumé can be found {{< staticref "uploads/demo_resume.pdf" "newtab" >}} here {{< /staticref >}}.
