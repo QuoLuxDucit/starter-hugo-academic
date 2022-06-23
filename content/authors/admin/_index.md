@@ -1,7 +1,8 @@
 ---
 title: Yuval Kay
 role: Physics and Mathematics Undergraduate student
-bio: My research interests include computational physics,
+bio: My research interests include computational physics, mathematical analysis
+  and it's implementation in modern physics theories
 interests:
   - Differential Geometry
   - Mathematical Analysis
