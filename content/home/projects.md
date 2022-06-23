@@ -1,11 +1,11 @@
 ---
-widget: Compact
+widget: compact
 widget_id: Projects
 headless: true
 weight: 65
 title: Projects
 subtitle: This is an example of a subtitle.
-active: true
+active: false
 content:
   page_type: project
   filter_default: 0
