@@ -5,6 +5,7 @@ headless: true
 weight: 65
 title: Projects
 subtitle: Hallo my name is vica i like you
+active: true
 content:
   page_type: project
   filter_default: 0
@@ -20,7 +21,7 @@ content:
     - name: Other
       tag: Demo
 design:
-  columns: "2"
+  columns: "1"
   view: 3
   flip_alt_rows: false
 ---
