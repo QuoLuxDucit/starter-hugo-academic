@@ -1,13 +1,13 @@
 ---
 title: Yuval Kay
 role: Physics and Mathematics Undergraduate student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include computational physics,
 interests:
   - Differential Geometry
   - Mathematical Analysis
   - Nuclear Shell Model
   - General Relativity
+  - Watching paint dry
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,9 +26,9 @@ organizations:
     url: https://www.ucl.ac.uk
 education:
   courses:
-    - course: MSci Mathematics and Physics
+    - course: MSci Mathematics and Physics (in progress)
       institution: University College London
-      year: 2021
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
