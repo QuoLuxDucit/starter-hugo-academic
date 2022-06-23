@@ -10,7 +10,7 @@ tags:
   - Computational Physics
   - Physics
   - Mathematics
-external_link: https://www.youtube.com/watch?v=CARXrn2BzTc
+external_link: ""
 links:
   - url: https://www.youtube.com/watch?v=CARXrn2BzTc
     icon: YouTube
