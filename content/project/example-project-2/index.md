@@ -4,10 +4,16 @@ date: 2022-06-23T11:49:09.616Z
 summary: jkasjasfkblkafsjblsafkblaskflsafbksajfbkjsfablkjfsab
 draft: false
 featured: true
+authors:
+  - Kay Yuval
 tags:
   - Computational Physics
   - Physics
   - Mathematics
+external_link: https://www.youtube.com/watch?v=CARXrn2BzTc
+links:
+  - url: https://www.youtube.com/watch?v=CARXrn2BzTc
+    icon: YouTube
 image:
   filename: featured
   focal_point: Smart
