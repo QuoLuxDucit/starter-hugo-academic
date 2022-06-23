@@ -1,7 +1,7 @@
 ---
 title: Example project 2
 subtitle: kjsdglkjsdgk;jsdglkjb;lm;l;m
-date: 2022-06-23T11:49:09.616Z
+date: 2022-06-23T13:26:20.216Z
 summary: jkasjasfkblkafsjblsafkblaskflsafbksajfbkjsfablkjfsab
 draft: false
 featured: true
@@ -20,7 +20,7 @@ links:
   - url: https://arxiv.org
     name: arXiv
 image:
-  filename: divgradandcurltensors.png
+  filename: ""
   focal_point: center
   preview_only: false
   caption: mjgfkhfkhgfkj
