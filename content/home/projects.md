@@ -7,7 +7,7 @@ title: Projects
 subtitle: This is not an example of a subtitle.
 active: true
 content:
-  page_type: compact
+  page_type: projects
   filter_default: 0
   filter_button:
     - name: All
