@@ -4,6 +4,10 @@ date: 2022-06-23T11:49:09.616Z
 summary: jkasjasfkblkafsjblsafkblaskflsafbksajfbkjsfablkjfsab
 draft: false
 featured: true
+tags:
+  - Computational Physics
+  - Physics
+  - Mathematics
 image:
   filename: featured
   focal_point: Smart
