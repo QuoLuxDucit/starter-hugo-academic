@@ -20,7 +20,7 @@ content:
     provider: netlify
     formspree:
       id: 
-    netlify: zcahyka@ucl.ac.uk
+    netlify:
       captcha: true
 design:
   columns: '2'
