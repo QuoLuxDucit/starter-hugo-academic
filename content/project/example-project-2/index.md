@@ -14,12 +14,12 @@ external_link: ""
 links:
   - url: https://www.youtube.com/watch?v=CARXrn2BzTc
     icon: youtube
-    name: Watch for more
+    name: YouTube
     icon_pack: fab
   - url: https://arxiv.org
-    name: arxiv
+    name: arXiv
 image:
-  filename: featured
+  filename: screen-shot-2022-06-23-at-3.11.03-pm.png
   focal_point: Smart
   preview_only: false
   caption: ""
