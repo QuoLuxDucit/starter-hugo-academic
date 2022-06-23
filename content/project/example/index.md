@@ -20,6 +20,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
   preview_only: false
+  filename: featured.jpg
 url_code: ""
 ---
 
