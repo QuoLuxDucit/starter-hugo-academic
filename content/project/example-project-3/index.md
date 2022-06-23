@@ -1,7 +1,7 @@
 ---
 title: Example Project 3
 subtitle: This is an example of a subtitle.
-date: 2022-06-23T13:57:48.102Z
+date: 2022-06-23T14:03:07.528Z
 summary: This is an example of a summary.
 draft: false
 featured: true
