@@ -20,7 +20,7 @@ links:
   - url: https://arxiv.org
     name: arXiv
 image:
-  filename: ""
+  url_code: ""
   focal_point: center
   preview_only: false
   caption: mjgfkhfkhgfkj
