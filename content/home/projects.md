@@ -4,7 +4,7 @@ widget_id: Projects
 headless: true
 weight: 65
 title: Projects
-subtitle: This is not an example of a subtitle.
+subtitle: This is an example of a subtitle.
 active: true
 content:
   page_type: projects
