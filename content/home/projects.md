@@ -1,5 +1,5 @@
 ---
-widget: portfolio
+widget: Compact
 widget_id: Projects
 headless: true
 weight: 65
