@@ -11,6 +11,11 @@ tags:
   - Mathematics
   - Physics
 categories: []
+links:
+  - icon_pack: null
+    icon: ""
+    url: https://arxiv.org
+    name: arxiv
 image:
   filename: featured.png
   focal_point: Smart
