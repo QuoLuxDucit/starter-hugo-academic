@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-date: 2022-06-23T08:56:40.585Z
+date: 2022-06-23T09:24:49.832Z
 summary: An example of using the in-built project page.
 url_video: ""
 title: Example Project
@@ -19,7 +19,7 @@ links:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 url_code: ""
 ---
 
