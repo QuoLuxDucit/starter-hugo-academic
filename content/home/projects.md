@@ -4,7 +4,7 @@ widget_id: Projects
 headless: true
 weight: 65
 title: Projects
-subtitle: This is an example of a subtitle.
+subtitle: Hallo my name is vica i like you
 content:
   page_type: project
   filter_default: 0
