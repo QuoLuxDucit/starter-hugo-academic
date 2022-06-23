@@ -1,9 +1,9 @@
 # Font style metadata
-name = "Gotu"
+name = "Nunito"
 
 # Optional Google font URL
-google_fonts = "family=Gotu"
+google_fonts = "family=Nunito"
 
 # Font families
-heading_font = "Gotu"
-body_font = "Gotu"
+heading_font = "Nunito"
+body_font = "Nunito"
